@@ -1,0 +1,19 @@
+===== STUDENT PERFORMANCE REPORT =====
+
+---- Sorted Student List (Highest to Lowest Total) ----
+Manu | Maths: 92 | VLSI: 89 | Python: 95 | Total: 276
+Abhi | Maths: 90 | VLSI: 95 | Python: 88 | Total: 273
+Motu | Maths: 78 | VLSI: 85 | Python: 90 | Total: 253
+Kiran | Maths: 88 | VLSI: 80 | Python: 70 | Total: 238
+Deepak | Maths: 65 | VLSI: 70 | Python: 50 | Total: 185
+
+---- Top Performer ----
+Manu with 276 marks
+
+---- Lowest Performer ----
+Deepak with 185 marks
+
+---- Subject-wise Highest Scorers ----
+Maths   : Manu (92)
+VLSI    : Abhi (95)
+Python  : Manu (95)
