@@ -4,11 +4,11 @@
 
 # Sample student list
 students = [
-    {"name": "Motu", "maths": 78, "vlsi": 85, "python": 90},
-    {"name": "Kiran", "maths": 88, "vlsi": 80, "python": 70},
-    {"name": "Manu",  "maths": 92, "vlsi": 89, "python": 95},
-    {"name": "Deepak",  "maths": 65, "vlsi": 70, "python": 50},
-    {"name": "Abhi",  "maths": 90, "vlsi": 95, "python": 88}
+    {"name": "Motu", "maths": 78, "vlsi": 85, "python": 89},
+    {"name": "Kiran", "maths": 88, "vlsi": 90, "python": 80},
+    {"name": "Manu",  "maths": 92, "vlsi": 79, "python": 95},
+    {"name": "Deepak",  "maths": 65, "vlsi": 70, "python": 60},
+    {"name": "Abhi",  "maths": 95, "vlsi": 98, "python": 85}
 ]
 
 # 1. Function to calculate total marks
